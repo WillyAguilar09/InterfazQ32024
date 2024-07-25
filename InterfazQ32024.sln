@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazQ32024", "InterfazQ32024\InterfazQ32024.csproj", "{200B1470-908C-4C11-AB85-2E675DCC823E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200B1470-908C-4C11-AB85-2E675DCC823E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200B1470-908C-4C11-AB85-2E675DCC823E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200B1470-908C-4C11-AB85-2E675DCC823E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200B1470-908C-4C11-AB85-2E675DCC823E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C86F3FE2-6381-414A-B95C-39236FCB222E}
+	EndGlobalSection
+EndGlobal
